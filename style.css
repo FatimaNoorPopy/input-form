@@ -20,15 +20,12 @@ button{
   border:none;
 position: center;
   color:white;
+  border-radius: 5px;
   
 }
 .box{
-    position: absolute;
-    top:50%;
-    left:20%;
-    transform: translate(50%, -50%);
     background:white;
     width: 400px;
-    padding:40px 40px;
+    padding:40px 30px;
     border-radius: 10px; 
 }
